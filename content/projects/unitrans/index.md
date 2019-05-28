@@ -22,18 +22,20 @@
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
+<h2 class="section-title">About the Project</h2>
 Unitrans 2019 Winter Referendum is an animated advertisement that educated student voters on the Unitrans Referendum in the 2019 ASUCD winter elections. This referendum passed with a 91% yes and broke voter turnout history in UC Davis.
 
 Our very first meeting with Unitrans' General Manager was both intimidating and exciting. We were given a purpose (encourage students to vote), facts (22,000 riders a day), and a quick turnaround required (2 months... gulp).
 
 This was the first large and very high-stakes project our studio had with our animation department. It was a large learning curve I had to overcome as a director in terms of learning how to communicate with animators, understanding how their creative process worked, and creating a story from a pile of facts and statistics.
 
+<h2 class="section-title">The Works</h2>
+    <div class="description">
+        Description of everything we had to do.
+    </div>
 
-
-a new line in markdown will not be displayed in the browser.
+<!-- a new line in markdown will not be displayed in the browser.
 \
 \
 \ 
@@ -45,4 +47,4 @@ Below is a list
 * asterisks make bullets
 - hyphens make bullets
 + plusses make bullets
-* you can choose!
+* you can choose! -->
