@@ -54,8 +54,8 @@ p {
 }
   
 .pp-gallery-item {
-    height: 100%;
-    width: auto;
+    height: 220px;
+    width: 170px;
     object-fit: contain;
   }
 

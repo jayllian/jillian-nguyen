@@ -41,6 +41,7 @@ This was the first large and very high-stakes project our studio had with our an
             </figure>
         </div>
     <p>And slowly but surely, our idea fleshed out to a script and a clearer vision overall. Our animators knocked it out of the ballpark and every little success boosted our morale just that much more. From the first styleframes, to the character rigging, everything fell just right into place.</p>
+        <!--
         <div class="pp-gallery">
             <figure class="pp-gallery-item">
                 <img src="Unitrans Reference-1.jpg" alt="First draft of the script" />
@@ -54,6 +55,29 @@ This was the first large and very high-stakes project our studio had with our an
             <figure class="pp-gallery-item">
                 <img src="Unitrans Reference-4.jpg" alt="Project timeline" />
             </figure>
+        </div>
+        -->
+        <div class="row">
+            <div class="col-xs-3 col-md-3">
+                <a href="#" class="thumbnail">
+                <img src="Unitrans Reference-1.jpg" alt="First draft of the script">
+                </a>
+            </div>
+            <div class="col-xs-3 col-md-3">
+                <a href="#" class="thumbnail">
+                <img src="Unitrans Reference-2.jpg" alt="...">
+                </a>
+            </div>
+             <div class="col-xs-3 col-md-3">
+                <a href="#" class="thumbnail">
+                <img src="Unitrans Reference-3.jpg" alt="...">
+                </a>
+            </div>
+             <div class="col-xs-3 col-md-3">
+                <a href="#" class="thumbnail">
+                <img src="Unitrans Reference-4.jpg" alt="...">
+                </a>
+            </div>           
         </div>
     <p>The video was released and blew up overnight. The animation department absolutely killed it, and it shows in the results! The referendum broke UC Davis voting records with the most amount of students voting <i>ever</i> on anything at any election. As for the outcome, this referendum passed with a 91% yes.</p>
     <p>I'm incredibly proud of our team for everything they've contributed. With month-plus-long productions like these, it's easier to start strong, then slowly fizz out as your excitement and energy dies.</p>
