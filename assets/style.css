@@ -12,3 +12,12 @@
     color: blueviolet;
 }
 
+h1.project-title {
+    font-family: 'Caveat', cursive;
+    color: #f7a893;
+}
+
+h2.section-title {
+    font-family: 'Caveat', cursive;
+    color: #f7a893;
+}
