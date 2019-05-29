@@ -16,6 +16,16 @@ body {
     background: #f7a893ff;
 }
 
+h1.nav-name{
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+
+.nav-item{
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
 h1.project-title {
     font-family: 'Caveat', cursive;
     color: white;
@@ -26,9 +36,26 @@ h2.section-title {
     font-family: 'Caveat', cursive;
     color: white;
     opacity: 0.8;
+    text-align: center;
 }
 
 p {
     font-family: 'Lato', sans-serif;
     color: white;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
+
+.pp-gallery {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.pp-gallery-item {
+    height: 100%;
+    width: auto;
+    object-fit: contain;
+  }
+

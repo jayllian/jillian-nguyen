@@ -35,12 +35,26 @@ This was the first large and very high-stakes project our studio had with our an
     <p>Here lies our brain vomit –– the rough timeline, the even rougher storyboard, and the narrative structure we decided to employ.</p>
         
    <p> Our structure was inspired by Monroe's Motivated Sequence. Open with a hook, state the problem, propose a solution, depict a world either with or without the solution, and close with a call to action. This was the foundation for the animated universe that was to come.</p>
-        <img src="Unitrans Brain Vomit.JPG" alt="Unitrans Brainstorming" />
+        <div class="pp-gallery">
+            <figure class="pp-gallery-item">
+                <img src="Unitrans Brain Vomit.JPG" alt="Unitrans Brainstorming" />
+            </figure>
+        </div>
     <p>And slowly but surely, our idea fleshed out to a script and a clearer vision overall. Our animators knocked it out of the ballpark and every little success boosted our morale just that much more. From the first styleframes, to the character rigging, everything fell just right into place.</p>
-        <img src="Unitrans Reference-1.jpg" alt="First draft of the script" />
-        <img src="Unitrans Reference-2.jpg" alt="Rough storyboard" />
-        <img src="Unitrans Reference-3.jpg" alt="Rough storyboard" />
-        <img src="Unitrans Reference-4.jpg" alt="Project timeline" />
+        <div class="pp-gallery">
+            <figure class="pp-gallery-item">
+                <img src="Unitrans Reference-1.jpg" alt="First draft of the script" />
+            </figure>
+            <figure class="pp-gallery-item">
+                <img src="Unitrans Reference-2.jpg" alt="Rough storyboard" />
+            </figure>
+            <figure class="pp-gallery-item">
+                <img src="Unitrans Reference-3.jpg" alt="Rough storyboard" />
+            </figure>
+            <figure class="pp-gallery-item">
+                <img src="Unitrans Reference-4.jpg" alt="Project timeline" />
+            </figure>
+        </div>
     <p>The video was released and blew up overnight. The animation department absolutely killed it, and it shows in the results! The referendum broke UC Davis voting records with the most amount of students voting <i>ever</i> on anything at any election. As for the outcome, this referendum passed with a 91% yes.</p>
     <p>I'm incredibly proud of our team for everything they've contributed. With month-plus-long productions like these, it's easier to start strong, then slowly fizz out as your excitement and energy dies.</p>
     <p>Not with our team.</p>
