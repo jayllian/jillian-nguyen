@@ -24,30 +24,27 @@
 
 
 <h2 class="section-title">About the Project</h2>
-Unitrans 2019 Winter Referendum is an animated advertisement that educated student voters on the Unitrans Referendum in the 2019 ASUCD winter elections. This referendum passed with a 91% yes and broke voter turnout history in UC Davis.
+<p>Unitrans 2019 Winter Referendum is an animated advertisement that educated student voters on the Unitrans Referendum in the 2019 ASUCD winter elections. This referendum passed with a 91% yes and broke voter turnout history in UC Davis.
 
 Our very first meeting with Unitrans' General Manager was both intimidating and exciting. We were given a purpose (encourage students to vote), statistics (22,000 riders a day), and a very quick turnaround (2 months... gulp).
 
-This was the first large and very high-stakes project our studio had with our animation department. It was a large learning curve I had to overcome as a director in terms of learning how to communicate with animators, understanding how their creative process worked, and creating a story from a pile of facts and statistics.
+This was the first large and very high-stakes project our studio had with our animation department. It was a large learning curve I had to overcome as a director in terms of learning how to communicate with animators, understanding how their creative process worked, and creating a story from a pile of facts and statistics.</p>
 <br>
 
 <h2 class="section-title">The Works</h2>
-    Here lies our brain vomit –– the rough timeline, the even rougher storyboard, and the narrative structure we decided to employ.
-        <br>
-    Our structure was inspired by Monroe's Motivated Sequence. Open with a hook, state the problem, propose a solution, depict a world either with or without the solution, and close with a call to action. This was the foundation for the animated universe that was to come. 
+    <p>Here lies our brain vomit –– the rough timeline, the even rougher storyboard, and the narrative structure we decided to employ.</p>
+        
+   <p> Our structure was inspired by Monroe's Motivated Sequence. Open with a hook, state the problem, propose a solution, depict a world either with or without the solution, and close with a call to action. This was the foundation for the animated universe that was to come.</p>
         <img src="Unitrans Brain Vomit.JPG" alt="Unitrans Brainstorming" />
-    And slowly but surely, our idea fleshed out to a script and a clearer vision overall. Our animators knocked it out of the ballpark and every little success boosted our morale just that much more. From the first styleframes, to the character rigging, everything fell just right into place.
+    <p>And slowly but surely, our idea fleshed out to a script and a clearer vision overall. Our animators knocked it out of the ballpark and every little success boosted our morale just that much more. From the first styleframes, to the character rigging, everything fell just right into place.</p>
         <img src="Unitrans Reference-1.jpg" alt="First draft of the script" />
         <img src="Unitrans Reference-2.jpg" alt="Rough storyboard" />
         <img src="Unitrans Reference-3.jpg" alt="Rough storyboard" />
         <img src="Unitrans Reference-4.jpg" alt="Project timeline" />
-    The video was released and blew up overnight. The animation department absolutely killed it, and it shows in the results! The referendum broke UC Davis voting records with the most amount of students voting <i>ever</i> on anything at any election. As for the outcome, this referendum passed with a 91% yes. 
-    <br>
-    I'm incredibly proud of our team for everything they've contributed. With month-plus-long productions like these, it's easier to start strong, then slowly fizz out as your excitement and energy dies. 
-    <br>
-    Not with our team. 
-    <br>
-    Everyone's creativity, professionalism, and communication was mind-blowing for a ragtag group of students like us. I can't wait to tackle more projects with this team. Wherever we're rolling, count me in on the ride!
+    <p>The video was released and blew up overnight. The animation department absolutely killed it, and it shows in the results! The referendum broke UC Davis voting records with the most amount of students voting <i>ever</i> on anything at any election. As for the outcome, this referendum passed with a 91% yes.</p>
+    <p>I'm incredibly proud of our team for everything they've contributed. With month-plus-long productions like these, it's easier to start strong, then slowly fizz out as your excitement and energy dies.</p>
+    <p>Not with our team.</p>
+    <p>Everyone's creativity, professionalism, and communication was mind-blowing for a ragtag group of students like us. I can't wait to tackle more projects with this team. Wherever we're rolling, count me in on the ride!</p>
 
     
 

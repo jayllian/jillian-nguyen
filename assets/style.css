@@ -12,12 +12,23 @@
     color: blueviolet;
 }
 
+body {
+    background: #f7a893ff;
+}
+
 h1.project-title {
     font-family: 'Caveat', cursive;
-    color: #f7a893;
+    color: white;
+    text-align: center;
 }
 
 h2.section-title {
     font-family: 'Caveat', cursive;
-    color: #f7a893;
+    color: white;
+    opacity: 0.8;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    color: white;
 }
