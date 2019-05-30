@@ -41,16 +41,16 @@ This was the first large and very high-stakes project our studio had with our an
     <p>And slowly but surely, our idea fleshed out to a script and a clearer vision overall. Our animators knocked it out of the ballpark and every little success boosted our morale just that much more. From the first styleframes, to the character rigging, everything fell just right into place.</p>
         <div class="pp-gallery">
             <figure class="pp-gallery-item">
-                <img src="Unitrans Reference-1.jpg" alt="First draft of the script" width=250px height=auto />
+                <img src="Unitrans Reference-1.jpg" alt="First draft of the script" width=222px height=auto />
             </figure>
             <figure class="pp-gallery-item">
-                <img src="Unitrans Reference-2.jpg" alt="Rough storyboard" width=250px height=auto />
+                <img src="Unitrans Reference-2.jpg" alt="Rough storyboard" width=222px height=auto />
             </figure>
             <figure class="pp-gallery-item">
-                <img src="Unitrans Reference-3.jpg" alt="Rough storyboard" width=250px height=auto/>
+                <img src="Unitrans Reference-3.jpg" alt="Rough storyboard" width=222px height=auto/>
             </figure>
             <figure class="pp-gallery-item">
-                <img src="Unitrans Reference-4.jpg" alt="Project timeline" width=250px height=auto />
+                <img src="Unitrans Reference-4.jpg" alt="Project timeline" width=222px height=auto />
             </figure>
         </div>
     <p>The video was released and blew up overnight. The animation department absolutely killed it, and it shows in the results! The referendum broke UC Davis voting records with the most amount of students voting <i>ever</i> on anything at any election. As for the outcome, this referendum passed with a 91% yes.</p>
