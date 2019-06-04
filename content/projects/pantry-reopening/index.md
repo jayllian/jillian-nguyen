@@ -14,7 +14,7 @@
     # For example, if the link is https://vimeo.com/285189099 then the unique part is  285189099
     projectVideoType = "gdrive"
     #Enter "youtube" or "vimeo". You can add other video types as well by editing single.html 
-    projectImage = "Pantry Reopenning.png"
+    projectImage = "Pantry Reopenning.jpg"
     #Enter the filename only. For example, "metropolis_album.jpg" 
     #This image should be saved in the project folder with the name of your project 
     projectImageAltText = "Pantry Reopening thumbnail"
