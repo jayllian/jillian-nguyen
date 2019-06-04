@@ -40,7 +40,7 @@
             </figure>
         </div>
     <p>When it came to the editing, my vision was to tell the story through the emotions. I wanted the viewer to feel the anticipation and nerves, the energy from the crowd, the adrenaline once those dancers hit the stage. Our editor played with the pacing of the video perfectly to capture this!<p>
-    <p>If we were to film this event next year again, I definitely want to encourage our videographers to get closer to the dancers (with caution!). I also would like to prepare with better low-light equipment as the lighting of the event was gorgeous. Side note: This was also an event in which I was emceeing! While my Executive Producer was directing this project with me, I hope to spend more time with the crew next year now that I've retired from the limelight.
+    <p>If we were to film this event next year again, I definitely want to encourage our videographers to get closer to the dancers (with caution!). I also would like to prepare with better low-light equipment as the lighting of the event was gorgeous. Side note: This was also an event in which I was emceeing! While my Executive Producer was directing this project with me, I hope to spend more time with the crew next year now that I've retired from the limelight.</p>
     <p></p>
     <p></p>
     <p></p>
