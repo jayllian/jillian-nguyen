@@ -1,4 +1,6 @@
 content = [
+    "/projects/i-like-that",
+    "/projects/pynk",
     "/projects/dirty-computer",
     "/projects/yoga",
     "/projects/electric-lady",
@@ -6,3 +8,4 @@ content = [
     "/projects/archandroid",
     "/projects/metropolis", 
 ]
+
