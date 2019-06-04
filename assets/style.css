@@ -53,7 +53,7 @@ p {
     flex-wrap: wrap;
     justify-content: center;
 }
-  
+
 .pp-gallery-item {
     object-fit: contain;
     padding-right: 15px;

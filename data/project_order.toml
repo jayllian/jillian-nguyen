@@ -10,3 +10,6 @@ content = [
     "/projects/vacaville-bg", 
 ]
 
+editing-projects = [
+    "/editing-projects/give-day", 
+]
