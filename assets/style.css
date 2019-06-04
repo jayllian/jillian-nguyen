@@ -57,6 +57,7 @@ p {
 .pp-gallery-item {
     object-fit: contain;
     padding-right: 15px;
+    padding-top: 15px;
   }
 
   .pp-gallery-item2 {

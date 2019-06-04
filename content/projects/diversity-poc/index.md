@@ -41,7 +41,7 @@
         <div class="pp-gallery">
                 <figure class="pp-gallery-item">
                     <img src="Aggie Studios B-Roll Hunt - Diversity_Principles of Community-1.jpg" alt="B-Roll Hunt Spreadsheet" width=450px height=auto />
-                    <img src="Aggie Studios B-Roll Hunt - Diversity_Principles of Community-1.jpg" alt="B-Roll Hunt Spreadsheet" width=450px height=auto />
+                    <img src="Aggie Studios B-Roll Hunt - Diversity_Principles of Community-2.jpg" alt="B-Roll Hunt Spreadsheet" width=450px height=auto />
                 </figure>
         </div>
     <p>Legend has it if a videographer ever acts up, they're sentenced to a set number of hours where all they have to do is find random b-roll on campus. So if you ever see a tired videographer pointing a camera at some squirrels... tell them Jillian said 60 fps. ;)</p>
