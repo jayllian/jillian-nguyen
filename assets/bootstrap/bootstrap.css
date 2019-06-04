@@ -4588,7 +4588,7 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.25rem;
-  text-shadow: 2px 2px 5px #5c5c5c;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, .2);
 }
 
 .card-subtitle {
@@ -4598,7 +4598,7 @@ input[type="button"].btn-block {
 
 .card-text:last-child {
   margin-bottom: 0;
-  text-shadow: 2px 2px 5px #5c5c5c;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, .2);
 }
 
 .card-link:hover {

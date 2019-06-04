@@ -7,7 +7,7 @@
         {{ end }}
         {{ with $.Site.GetPage $proj }}
         {{ $img:= .Resources.GetMatch .Params.projectImage }}
-        {{ $imgThumb := $img.Fill "1296x810" }}
+        {{ $imgThumb := $img.Fill "1296x800" }}
         {{/*  CHANGED: Resizes and crops the project image to 400 X 400 so that we get a perfect square which loads quickly  */}}
 
  {{/*           <div class="col-4">
