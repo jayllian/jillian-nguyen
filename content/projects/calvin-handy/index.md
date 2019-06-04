@@ -8,7 +8,7 @@
     
     date = 2019-05-19T17:02:23-07:00 #the date the file was created
     
-    shortDescription = "Recap video of UC Davis CSI's annual dance competition"
+    shortDescription = "Introduction to Soaring to New Heights’ Calvin Handy Award"
     projectVideo = "1rS4iZip09qIVClT1vwYd9CQ7yTrHq0Te"
     #Project video is just the unique part of the URL  
     # For example, if the link is https://vimeo.com/285189099 then the unique part is  285189099

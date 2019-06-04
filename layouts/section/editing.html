@@ -16,6 +16,7 @@
     {{/*  in this case, the second argument is a dictionary object  */}}
     {{/*  dict creates a new dictionary with a set of key-value pairs. 
         As many as you want, but they must be paired "key value key value key value" */}}
+
     <div class="container">
         {{ .Scratch.Set "elements" .Site.Data.project_order.editing }}
         {{ partial "card-layout.html" . }}
