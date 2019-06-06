@@ -1,0 +1,5 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Jillian Nguyen"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+publishDir= "../jayllian.github.io"
