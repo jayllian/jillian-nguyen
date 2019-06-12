@@ -31,17 +31,11 @@
     <p>Of the three videos we were asked to make in this series, this one was the largest and trickiest. The Principles of Community and the idea of diveristy within UC Davis are both abstract concepts that needed to be defined in the video. On top of that, this event was catered to distinguished staff members of the UC Davis body. Our usual colloquial, student-to-student voice wasn't gonna cut it in this script.</p>
     <p>I decided to put on my corporate hat and create the most squeaky-clean, polished video we could. My vision was to have a voiceover reading a script I had written about these principles and their purpose in the UC Davis community, while b-roll of our campus played in the background. There were two main challenges to this project – the script and the b-roll.</p>
     <p>After two hours of research (all during a single lecture of my communication class, sorry Palomares), I was able to pump out a solid script for this narration. There was a ton of dense material on how UC Davis views the Principles of Community and values diversity, so synthesizing and downsizing all that content was a tough portion of my work. But hey, such is the nature of this job! Taking big, complex ideas and whittling it down to simple, bite-sized concepts.</p>
-        <div class="card bg-dark text-white">
-        <img class="card-img" src="Diversity_Principles of Community-1.jpg" alt="Card image" width=50% height=auto />
-            <div class="card-img-overlay">
-                <p class="card-text">The final voiceover script for Diversity/Principles of Community</p>
-            </div>
-        </div>
-        <!-- <div class="pp-gallery">
+        <div class="pp-gallery">
                 <figure class="pp-gallery-item">
                     <img src="Diversity_Principles of Community-1.jpg" alt="Diversity/Principles of Community script" width=350px height=auto />
                 </figure>
-        </div> -->
+        </div> 
     <p>Audio, with the nightmare of finding non-cheesy copyright-free music, was good to go after a narrator switch per the request of the client. Footage? That was a whoooole 'nother ballpark. I knew we needed all hands on deck as we built what essentially became the Aggie Studios vault of UC Davis b-roll. Thus, the B-Roll Hunt was born.</p>
     <p>To organize this mayhem, I created a Google Folder with this spreadsheet as the table of contents/syllabus. Videographers could sign up for their preferred content on the spreadsheet, and once they're done, dump their footage on the specific folder that I'd pre-linked for them.
         <div class="pp-gallery">
