@@ -13,8 +13,10 @@
 }
 
 body {
-    background: #f7a893ff;
-}
+    /* background-image: linear-gradient(#342458, #8b5089); */
+    background-image: linear-gradient(#8b5089,#342458); 
+} 
+
 
 h1.nav-name{
     font-family: 'Caveat', cursive;
