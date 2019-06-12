@@ -8,8 +8,9 @@
     
     date = 2019-05-19T17:03:24-07:00 #the date the file was created
     
-    headshot = "headshot.jpg"
+    headshot = "JillyMe.JPG"
 
 +++
 
-I am the alphaplatinum. The archandroid. Android number 57821. Seducer of humans, breaker of rules, escapee of the droid control. The elusive, the rulebreaker bounty-hunters dream of catching. I am your worst nightmare.
+My name is Jillian, like Jack-and-Jill plus Ian or million times J. As an award-winning editor and director, I’m passionate about creating pieces of <span style="color: #f5d690">visual content</span> that push the boundaries of storytelling and narratology. This is best manifested in my current work where I direct production crews of 5-15 people to create videos for clients ranging from student organizations to prestigious university departments. In a culture that is flooded with a constant stream of graphic information, I’m interested in producing content that <span style="color: #f5d690">engages, informs, and inspires.</span> I hope to forward my experience in video production, marketing, and advertising by collaborating with new clients to produce <span style="color: #f5d690">deliciously challenging projects</span> of high-caliber content.
+

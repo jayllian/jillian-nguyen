@@ -10,6 +10,9 @@ content = [
     "/projects/vacaville-bg", 
 ]
 
-editing-projects = [
-    "/editing-projects/give-day", 
+editing = [
+    "/projects/give-day", 
+    "/projects/sunset-fest",
+    "/projects/davis-boba-run",
+    "/projects/siss-housing",
 ]
