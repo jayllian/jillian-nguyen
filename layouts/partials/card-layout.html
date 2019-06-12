@@ -1,6 +1,6 @@
 <div class="container">
     {{ $numColumns := 3 }}
-    {{ range $idx, $proj:= .Site.Data.project_order.content }}
+    {{ $projects := .Scratch.Get "elements" }}
         {{ if modBool $idx $numColumns }} 
         {{/*  if $idx modulo $numColumns = 0  */}}
             <div class="row gallery-row">
